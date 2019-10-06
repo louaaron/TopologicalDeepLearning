@@ -9,6 +9,8 @@ The Power of Depth for Feedforward Neural Networks (COLT 2016) https://arxiv.org
 
 On Characterizing the Capacity of Neural Networks Using Algebraic Topology (Preprint 2017): https://arxiv.org/abs/1802.04443
 
+Topology of Deep Neural Networks (ICLR 2020 Submission): https://openreview.net/pdf?id=SkgBfaNKPr
+
 
 ## Topological Data Analysis
 
