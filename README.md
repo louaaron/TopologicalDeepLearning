@@ -30,3 +30,4 @@ Loss Landscapes of Regularized Linear Autoencoders (ICML 2019): https://arxiv.or
 
 PersLay: A Simple and Versatile Neural Network Layer for Persistence Diagrams (Preprint 2019): https://arxiv.org/abs/1904.09378
 
+Topological Autoencoders (ICLR 2020 Submission): https://openreview.net/pdf?id=HkgtJRVFPS
