@@ -29,6 +29,6 @@ On Characterizing the Capacity of Neural Networks Using Algebraic Topology (Prep
 
 Topology of Deep Neural Networks (ICLR 2020 Submission): https://openreview.net/pdf?id=SkgBfaNKPr
 
-## Related Topology Based Deep Learning Paper
+## Related Topology Based Deep Learning Papers
 
 On The Need For Topology-aware Generative Models For Manifold-based Defenses (ICLR 2020) https://openreview.net/pdf?id=r1lF_CEYwS
