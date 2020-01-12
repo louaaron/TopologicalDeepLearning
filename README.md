@@ -3,7 +3,7 @@ A collection of Topology Methods in Deep Learning
 
 # Papers
 
-## Topological Data Analysis
+## Topological Data Analysis/ Persistent Homology
 
 Subsampling Methods For Persistent Homology (ICML 2015): https://arxiv.org/abs/1406.1901
 
@@ -17,18 +17,16 @@ Topological Data Analysis of Decision Boundaries with Application to Model Selec
 
 Connectivity-Optimized Representation Learning via Persistent Homology (ICML 2019): https://arxiv.org/abs/1906.09003
 
-Loss Landscapes of Regularized Linear Autoencoders (ICML 2019): https://arxiv.org/abs/1901.08168
-
 PersLay: A Simple and Versatile Neural Network Layer for Persistence Diagrams (Preprint 2019): https://arxiv.org/abs/1904.09378
 
 Topological Autoencoders (ICLR 2020 Submission): https://openreview.net/pdf?id=HkgtJRVFPS
 
-The Power of Depth for Feedforward Neural Networks (COLT 2016) https://arxiv.org/abs/1512.03965
+## Related Topology Based Deep Learning Papers
 
 On Characterizing the Capacity of Neural Networks Using Algebraic Topology (Preprint 2017): https://arxiv.org/abs/1802.04443
 
-Topology of Deep Neural Networks (ICLR 2020 Submission): https://openreview.net/pdf?id=SkgBfaNKPr
+The Power of Depth for Feedforward Neural Networks (COLT 2016) https://arxiv.org/abs/1512.03965
 
-## Related Topology Based Deep Learning Papers
+Loss Landscapes of Regularized Linear Autoencoders (ICML 2019): https://arxiv.org/abs/1901.08168
 
 On The Need For Topology-aware Generative Models For Manifold-based Defenses (ICLR 2020) https://openreview.net/pdf?id=r1lF_CEYwS
