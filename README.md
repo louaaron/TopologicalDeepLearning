@@ -23,7 +23,7 @@ PersLay: A Simple and Versatile Neural Network Layer for Persistence Diagrams (P
 
 Topological Autoencoders (ICML 2020): https://arxiv.org/abs/1906.00722
 
-Computing the Test Error with a Testing Set (CVPR 2020): http://openaccess.thecvf.com/content_CVPR_2020/papers/Corneanu_Computing_the_Testing_Error_Without_a_Testing_Set_CVPR_2020_paper.pdf
+Computing the Test Error with a Testing Set (CVPR 2020): https://arxiv.org/pdf/2005.00450.pdf
 
 ## Related Topology Based Deep Learning Papers
 
